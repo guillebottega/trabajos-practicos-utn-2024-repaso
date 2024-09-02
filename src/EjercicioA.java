@@ -3,7 +3,7 @@
 public class EjercicioA {
 
 	public static void main(String[] args) {
-		int num1 =2;
+		int num1 =4;
 		int num2 =20;
 		
 		while(num1<=num2) {
@@ -11,7 +11,7 @@ public class EjercicioA {
 			num1=num1+1;
 			System.out.println(" ");
 		}
-		for (int i = 4; i <= 14; i++) {
+		for (int i = 4; i <= 18; i++) {
 			System.out.println("los pares  son:"+i);
 			i++;		
 		} 	
