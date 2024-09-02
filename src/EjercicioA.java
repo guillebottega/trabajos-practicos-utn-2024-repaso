@@ -3,7 +3,7 @@
 public class EjercicioA {
 
 	public static void main(String[] args) {
-		int num1 =4;
+		int num1 =8;
 		int num2 =20;
 		
 		while(num1<=num2) {
