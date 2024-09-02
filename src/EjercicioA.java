@@ -4,7 +4,7 @@ public class EjercicioA {
 
 	public static void main(String[] args) {
 		int num1 =8;
-		int num2 =20;
+		int num2 =200;
 		
 		while(num1<=num2) {
 			System.out.print(num1+",");
