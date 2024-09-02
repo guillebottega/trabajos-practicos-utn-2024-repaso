@@ -4,11 +4,9 @@ public class EjercicioA {
 
 	public static void main(String[] args) {
 		int num1 =8;
-<<<<<<< Updated upstream
-		int num2 =200;
-=======
-		int num2 =2000;
->>>>>>> Stashed changes
+
+		int num2 =20;
+
 		
 		while(num1<=num2) {
 			System.out.print(num1+",");
