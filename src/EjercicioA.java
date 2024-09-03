@@ -5,7 +5,7 @@ public class EjercicioA {
 	public static void main(String[] args) {
 		int num1 =8;
 
-		int num2 =20;
+		int num2 =201;
 
 		
 		while(num1<=num2) {
